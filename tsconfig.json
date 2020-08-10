@@ -1,11 +1,11 @@
 {
    "compilerOptions": {
       "module": "commonjs",
-      "declaration": true,
+      "declaration": false,
       "removeComments": true,
       "emitDecoratorMetadata": true,
       "experimentalDecorators": true,
-      "target": "es5",
+      "target": "es2017",
       "sourceMap": false,
       "outDir": "./dist",
       "baseUrl": "./src",
