@@ -1,0 +1,20 @@
+{
+  "name": "design-patterns-in-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonicalsin/design-patterns-in-typescript.git"
+  },
+  "author": "Yoni Calsin <helloyonicb@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/yonicalsin/design-patterns-in-typescript/issues"
+  },
+  "homepage": "https://github.com/yonicalsin/design-patterns-in-typescript#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
+}
